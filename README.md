@@ -1,10 +1,15 @@
+
+### Hi there, I'm Kamran - aka [codeSTACKr][website] 👋
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iemkamran.tech)
+
+## I'm a Devops Engineer!!
+
 - 👋 Hi, I’m Kamran
 - 👀 I’m interested in Devops Tools
-- 🌱 I’m currently learning Kubernetes/Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Kubernetes/Docker🤣
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
-<!---
-iemkamran/iemkamran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=iemkamran)](https://github.com/iemkamran/github-readme-stats)
