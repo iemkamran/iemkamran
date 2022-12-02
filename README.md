@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Kamran - aka [iemkamran][website] 👋
 
-[![Website](https://img.shields.io/website?label=iemkamran.me&style=for-the-badge&url=https%3A%2F%2Fiemkamran.tech)](http://www.iemkamran.me)
+[![Website](https://img.shields.io/website?label=iemkamran.me&style=for-the-badge&url=https%3A%2F%2Fiemkamran.me)](https://www.iemkamran.me)
 
 ## I'm a Devops Engineer!!
 
