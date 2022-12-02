@@ -7,9 +7,9 @@
 
 - 👋 Hi, I’m Kamran
 - 👀 I’m interested in Devops Tools
-- 🌱 I’m currently learning Kubernetes/Docker🤣
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently/still learning Kubernetes/Docker🤣
+- 🌱 I’m currently/still learning everything 🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 [![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=iemkamran)](https://github.com/iemkamran/github-readme-stats)
